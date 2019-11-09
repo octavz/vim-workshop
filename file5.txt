@@ -1,0 +1,24 @@
+$ sudo apt install bluez
+$ apt search bluez
+$ bluetooth --version
+$ bluetoothctl
+$ sudo pkill -f blueman-
+$ pkill -f blueman-
+$ hcitool cc
+$ hcitool con
+$ hcitool inq
+$ hcitool dinq
+$ hcitool dev
+$ hcitool
+$ hcitool scan
+$ sudo pkill -f blueman
+$ bluetooth
+$ blueman-manager
+$ cd ~/.config/tridactyl/
+$ cd ~/.local/share/tridactyl/
+$ mv tridactylrc_ tridactylrc
+$ mv tridactylrc tridactylrc_
+$ v tridactylrc
+$ cd tridactyl/
+$ cd ~/.config/
+$ bash
